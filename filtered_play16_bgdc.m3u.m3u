@@ -1,0 +1,763 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="aande.us" tvg-name="A&E" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ae-logo-black-and-white.png" group-title="02. USA CABLE  TV #1" tvg-chno="445",A&E
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10357.ts
+#EXTINF:-1 tvg-id="abcwabc.us" tvg-name="ABC EAST" tvg-logo="https://cantseeus.com/wp-content/uploads/2025/08/directv-newyorkabcwabc.png" group-title="02. USA CABLE  TV #1" tvg-chno="446",ABC EAST
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10358.ts
+#EXTINF:-1 tvg-id="amc.us" tvg-name="AMC" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/AMC_28201929.png" group-title="02. USA CABLE  TV #1" tvg-chno="447",AMC
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10361.ts
+#EXTINF:-1 tvg-id="animalplanet.us" tvg-name="ANIMAL PLANET" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Animal_Planet_2018.png" group-title="02. USA CABLE  TV #1" tvg-chno="448",ANIMAL PLANET
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10362.ts
+#EXTINF:-1 tvg-id="bet.us" tvg-name="BET HD" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/BET_28201029.png" group-title="02. USA CABLE  TV #1" tvg-chno="449",BET HD
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10365.ts
+#EXTINF:-1 tvg-id="bether.us" tvg-name="BET HER" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/BET_Her.png" group-title="02. USA CABLE  TV #1" tvg-chno="450",BET HER
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10366.ts
+#EXTINF:-1 tvg-id="americanheroeschannel.us" tvg-name="AHC American Hero" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/American_Heroes_Channel.png" group-title="02. USA CABLE  TV #1" tvg-chno="451",AHC American Hero
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10370.ts
+#EXTINF:-1 tvg-id="axstv.us" tvg-name="AXS TV" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/AXS_TV_2012.png" group-title="02. USA CABLE  TV #1" tvg-chno="452",AXS TV
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10371.ts
+#EXTINF:-1 tvg-id="bbcamerica.us" tvg-name="BBC America" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/BBC_America_2008.png" group-title="02. USA CABLE  TV #1" tvg-chno="453",BBC America
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10372.ts
+#EXTINF:-1 tvg-id="bravo.us" tvg-name="BRAVO" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Bravo_2017.png" group-title="02. USA CABLE  TV #1" tvg-chno="454",BRAVO
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10373.ts
+#EXTINF:-1 tvg-id="cnn.us" tvg-name="CNN" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/CNN_28201429.png" group-title="02. USA CABLE  TV #1" tvg-chno="455",CNN
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10378.ts
+#EXTINF:-1 tvg-id="comedycentral.us" tvg-name="COMEDY CENTRAL" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Comedy_Central_2018.png" group-title="02. USA CABLE  TV #1" tvg-chno="456",COMEDY CENTRAL
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10379.ts
+#EXTINF:-1 tvg-id="comet.us" tvg-name="COMET" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/COMET_2020.png" group-title="02. USA CABLE  TV #1" tvg-chno="457",COMET
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10380.ts
+#EXTINF:-1 tvg-id="cookingchannel.us" tvg-name="Cooking Channel" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Cooking_Channel.png" group-title="02. USA CABLE  TV #1" tvg-chno="458",Cooking Channel
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10381.ts
+#EXTINF:-1 tvg-id="cozitvny.us" tvg-name="COZI TV" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/cozi5.png" group-title="02. USA CABLE  TV #1" tvg-chno="459",COZI TV
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10383.ts
+#EXTINF:-1 tvg-id="crimeinvestigation.us" tvg-name="SCARES by Shudder" group-title="02. USA CABLE  TV #1" tvg-chno="460",SCARES by Shudder
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10385.ts
+#EXTINF:-1 tvg-id="destinationamerica.us" tvg-name="DESTINATION AMERICA" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Destination_America_2015.png" group-title="02. USA CABLE  TV #1" tvg-chno="461",DESTINATION AMERICA
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10386.ts
+#EXTINF:-1 tvg-id="discoveryfamily.us" tvg-name="DISCOVERY FAMILY" tvg-logo="https://cantseeus.com/wp-content/uploads/2025/11/Discovery_Family_Channel_DFC.png" group-title="02. USA CABLE  TV #1" tvg-chno="462",DISCOVERY FAMILY
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10387.ts
+#EXTINF:-1 tvg-id="discoverychannel.us" tvg-name="DISCOVERY" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/discov.png" group-title="02. USA CABLE  TV #1" tvg-chno="463",DISCOVERY
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10388.ts
+#EXTINF:-1 tvg-id="discoveryscience.us" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/science.png" group-title="02. USA CABLE  TV #1" tvg-chno="464",DISCOVERY SCIENCE
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10389.ts
+#EXTINF:-1 tvg-id="eentertainment.us" tvg-name="E! ENTERTAINMENT" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/E21_1990.png" group-title="02. USA CABLE  TV #1" tvg-chno="465",E! ENTERTAINMENT
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10391.ts
+#EXTINF:-1 tvg-id="foodnetwork.us" tvg-name="FOOD NETWORK" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/FoodNetLogo.png" group-title="02. USA CABLE  TV #1" tvg-chno="466",FOOD NETWORK
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10393.ts
+#EXTINF:-1 tvg-id="foxwnyw.us" tvg-name="FOX EAST" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/fox.png" group-title="02. USA CABLE  TV #1" tvg-chno="467",FOX EAST
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10395.ts
+#EXTINF:-1 tvg-id="foxnews.us" tvg-name="FOX NEWS" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/fox-news.png" group-title="02. USA CABLE  TV #1" tvg-chno="468",FOX NEWS
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10397.ts
+#EXTINF:-1 tvg-id="fusetv.us" tvg-name="FUSE" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Fuse_Orange_logo.png" group-title="02. USA CABLE  TV #1" tvg-chno="469",FUSE
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10399.ts
+#EXTINF:-1 tvg-id="fxm.us" tvg-name="FXM" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/fxm1111.png" group-title="02. USA CABLE  TV #1" tvg-chno="470",FXM
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10401.ts
+#EXTINF:-1 tvg-id="fxx.us" tvg-name="FXX  " tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/FXX.png" group-title="02. USA CABLE  TV #1" tvg-chno="471",FXX
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10402.ts
+#EXTINF:-1 tvg-id="gameshownetwork.us" tvg-name="GAMESHOW" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/gameshow.png" group-title="02. USA CABLE  TV #1" tvg-chno="472",GAMESHOW
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10404.ts
+#EXTINF:-1 tvg-id="gettv.us" tvg-name="GREAT (GET TV)" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/GetTV_2016_logo.png" group-title="02. USA CABLE  TV #1" tvg-chno="473",GREAT (GET TV)
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10405.ts
+#EXTINF:-1 tvg-id="grit.us" tvg-name="GRIT" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Grit_TV_Network_Logo.png" group-title="02. USA CABLE  TV #1" tvg-chno="474",GRIT
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10406.ts
+#EXTINF:-1 tvg-id="hallmark.us" tvg-name="HALLMARK CHANNEL" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Hallmark_Channel.png" group-title="02. USA CABLE  TV #1" tvg-chno="475",HALLMARK CHANNEL
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10407.ts
+#EXTINF:-1 tvg-id="hallmarkfamily.us" tvg-name="HALLMARK FAMILY" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/halldrama.png" group-title="02. USA CABLE  TV #1" tvg-chno="476",HALLMARK FAMILY
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10408.ts
+#EXTINF:-1 tvg-id="hallmarkmoviesmysteries.us" tvg-name="HALLMARK MYSTERIES" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Hallmark_Movies_26_Mysteries_28Gold29.png" group-title="02. USA CABLE  TV #1" tvg-chno="477",HALLMARK MYSTERIES
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10409.ts
+#EXTINF:-1 tvg-id="hgtv.us" tvg-name="HGTV" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Home_26_Garden_Television.png" group-title="02. USA CABLE  TV #1" tvg-chno="478",HGTV
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10411.ts
+#EXTINF:-1 tvg-id="historychannel.us" tvg-name="HISTORY" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/History_28201529.png" group-title="02. USA CABLE  TV #1" tvg-chno="479",HISTORY
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10412.ts
+#EXTINF:-1 tvg-id="investigationdiscovery.us" tvg-name="I.D DISCOVERY" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ID-2020.png" group-title="02. USA CABLE  TV #1" tvg-chno="480",I.D DISCOVERY
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10417.ts
+#EXTINF:-1 tvg-id="insp.us" tvg-name="INSP" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/insp.png" group-title="02. USA CABLE  TV #1" tvg-chno="481",INSP
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10418.ts
+#EXTINF:-1 tvg-id="ion.us" tvg-name="ION TV" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Ion_Television_2021.png" group-title="02. USA CABLE  TV #1" tvg-chno="482",ION TV
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10419.ts
+#EXTINF:-1 tvg-id="lafftv.us" tvg-name="LAFF TV" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/LAFF_28You_Know_You_Want_To29.png" group-title="02. USA CABLE  TV #1" tvg-chno="483",LAFF TV
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10420.ts
+#EXTINF:-1 tvg-id="lifetimemovies.us" tvg-name="LIFETIME MOVIE NETWORK" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Lifetime_Movie_Network_2019.png" group-title="02. USA CABLE  TV #1" tvg-chno="484",LIFETIME MOVIE NETWORK
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10421.ts
+#EXTINF:-1 tvg-id="lifetimenetwork.us" tvg-name="LIFETIME NETWORK" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Lifetime_2020.png" group-title="02. USA CABLE  TV #1" tvg-chno="485",LIFETIME NETWORK
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10422.ts
+#EXTINF:-1 tvg-id="logo.us" tvg-name="LOGO" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Logo_TV_2015.png" group-title="02. USA CABLE  TV #1" tvg-chno="486",LOGO
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10423.ts
+#EXTINF:-1 tvg-id="mtv.us" tvg-name="MTV" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/MTV_28201029.png" group-title="02. USA CABLE  TV #1" tvg-chno="487",MTV
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10426.ts
+#EXTINF:-1 tvg-id="mtv2.us" tvg-name="MTV 2" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/MTV2_2013.png" group-title="02. USA CABLE  TV #1" tvg-chno="488",MTV 2
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10427.ts
+#EXTINF:-1 tvg-id="natgeowild.us" tvg-name="NAT GEO WILD" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/National_Geographic_Wild_2018.png" group-title="02. USA CABLE  TV #1" tvg-chno="489",NAT GEO WILD
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10428.ts
+#EXTINF:-1 tvg-id="natgeo.us" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/National_Geographic_2008.png" group-title="02. USA CABLE  TV #1" tvg-chno="490",NATIONAL GEOGRAPHIC
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10429.ts
+#EXTINF:-1 tvg-id="nbcwnbc.us" tvg-name="NBC EAST" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/NBC_2014_Indent_Style.png" group-title="02. USA CABLE  TV #1" tvg-chno="491",NBC EAST
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10430.ts
+#EXTINF:-1 tvg-id="ovation.us" tvg-name="OVATION " tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Ovation.png" group-title="02. USA CABLE  TV #1" tvg-chno="492",OVATION
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10436.ts
+#EXTINF:-1 tvg-id="oprahwinfreynetwork.us" tvg-name="OWN" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Oprah_Winfrey_Network_2010b.png" group-title="02. USA CABLE  TV #1" tvg-chno="493",OWN
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10437.ts
+#EXTINF:-1 tvg-id="oxygen.us" tvg-name="OXYGEN TRUE CRIMES" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Oxygen_2017.png" group-title="02. USA CABLE  TV #1" tvg-chno="494",OXYGEN TRUE CRIMES
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10438.ts
+#EXTINF:-1 tvg-id="rfdtv.us" tvg-name="RFD TV " tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/rfd1.png" group-title="02. USA CABLE  TV #1" tvg-chno="495",RFD TV
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10441.ts
+#EXTINF:-1 tvg-id="smithsonianchannel.us" tvg-name="SMITHSONIAN CHANNEL" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Smithsonian.png" group-title="02. USA CABLE  TV #1" tvg-chno="496",SMITHSONIAN CHANNEL
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10442.ts
+#EXTINF:-1 tvg-id="starttv.us" tvg-name="START TV" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/start1.png" group-title="02. USA CABLE  TV #1" tvg-chno="497",START TV
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10443.ts
+#EXTINF:-1 tvg-id="sundancetv.us" tvg-name="SUNDANCE CHANNEL" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/SundanceTV_2014.png" group-title="02. USA CABLE  TV #1" tvg-chno="498",SUNDANCE CHANNEL
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10444.ts
+#EXTINF:-1 tvg-id="tbs.us" tvg-name="TBS" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/TBS_2015.png" group-title="02. USA CABLE  TV #1" tvg-chno="499",TBS
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10446.ts
+#EXTINF:-1 tvg-id="turnerclassicmovies.us" tvg-name="TCM" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Turner_Classic_Movies_2009.png" group-title="02. USA CABLE  TV #1" tvg-chno="500",TCM
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10447.ts
+#EXTINF:-1 tvg-id="tlc.us" tvg-name="TLC " tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/TLC2021.png" group-title="02. USA CABLE  TV #1" tvg-chno="501",TLC
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10450.ts
+#EXTINF:-1 tvg-id="tnt.us" tvg-name="TNT " tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/TNT_2016.png" group-title="02. USA CABLE  TV #1" tvg-chno="502",TNT
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10451.ts
+#EXTINF:-1 tvg-id="travel.us" tvg-name="TRAVEL CHANNEL" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Travel_Channel_2018.png" group-title="02. USA CABLE  TV #1" tvg-chno="503",TRAVEL CHANNEL
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10452.ts
+#EXTINF:-1 tvg-id="trutv.us" tvg-name="TRU TV " tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/TruTV_2014.png" group-title="02. USA CABLE  TV #1" tvg-chno="504",TRU TV
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10453.ts
+#EXTINF:-1 tvg-id="tvlandeast.us" tvg-name="TV LAND" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/TV_Land_2015.png" group-title="02. USA CABLE  TV #1" tvg-chno="505",TV LAND
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10454.ts
+#EXTINF:-1 tvg-id="usanetwork.us" tvg-name="USA NETWORK" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/USA_Network2021.png" group-title="02. USA CABLE  TV #1" tvg-chno="506",USA NETWORK
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10456.ts
+#EXTINF:-1 tvg-id="vh1.us" tvg-name="VH1 " tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/VH1_2013.png" group-title="02. USA CABLE  TV #1" tvg-chno="507",VH1
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10457.ts
+#EXTINF:-1 tvg-id="vice.us" tvg-name="VICE" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Vice_TV.png" group-title="02. USA CABLE  TV #1" tvg-chno="508",VICE
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10458.ts
+#EXTINF:-1 tvg-id="wnetwork.ca" tvg-name="W Network" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/W_Network.png" group-title="02. USA CABLE  TV #1" tvg-chno="509",W Network
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10459.ts
+#EXTINF:-1 tvg-id="wetv.us" tvg-name="WE TV" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/WE_tv.png" group-title="02. USA CABLE  TV #1" tvg-chno="510",WE TV
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10460.ts
+#EXTINF:-1 tvg-id="wgn9chicago.us" tvg-name="WGN " tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/WGN9_Chicago_2017.png" group-title="02. USA CABLE  TV #1" tvg-chno="511",WGN
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10461.ts
+#EXTINF:-1 tvg-id="freeform.us" tvg-name="FREEFORM" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Freeform_2018.png" group-title="02. USA CABLE  TV #1" tvg-chno="512",FREEFORM
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10398.ts
+#EXTINF:-1 tvg-id="cmt.us" tvg-name="CMT HD" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/cmttrans.png" group-title="02. USA CABLE  TV #1" tvg-chno="513",CMT HD
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10377.ts
+#EXTINF:-1 tvg-id="magnolianetwork.us" tvg-name="MAGNOLIA NETWORK" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/DIY_Network.png" group-title="02. USA CABLE  TV #1" tvg-chno="514",MAGNOLIA NETWORK
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10390.ts
+#EXTINF:-1 tvg-id="hbo.us" tvg-name="HBO" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/HBO.png" group-title="03. MOVIE CHANNELS" tvg-chno="515",HBO
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/13434.ts
+#EXTINF:-1 tvg-id="hbo2.us" tvg-name="HBO HITS" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/HBO2_logo.png" group-title="03. MOVIE CHANNELS" tvg-chno="516",HBO HITS
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/13435.ts
+#EXTINF:-1 tvg-id="hdnetmovies.us" tvg-name="HDNET MOVIES" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/hdnet.png" group-title="03. MOVIE CHANNELS" tvg-chno="517",HDNET MOVIES
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/13450.ts
+#EXTINF:-1 tvg-id="cinemax.us" tvg-name="CINEMAX" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Cinemax_2011_28Yellow29.png" group-title="03. MOVIE CHANNELS" tvg-chno="518",CINEMAX
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/13987.ts
+#EXTINF:-1 tvg-id="moremax.us" tvg-name="CINEMAX HITS" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/More_MAX_2016.png" group-title="03. MOVIE CHANNELS" tvg-chno="519",CINEMAX HITS
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/13988.ts
+#EXTINF:-1 tvg-id="actionmax.us" tvg-name="CInemax Action" tvg-logo="http://onlytimewilltell.xyz:2086/images/9f9c63332b19dfa33deeaf6d4a7464c2.png" group-title="03. MOVIE CHANNELS" tvg-chno="520",CInemax Action
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/13992.ts
+#EXTINF:-1 tvg-id="hbocomedy.us" tvg-name="HBO COMEDY" tvg-logo="http://onlytimewilltell.xyz:2086/images/ec1dbf8ba80280bdbc143a019dd198d3.png" group-title="03. MOVIE CHANNELS" tvg-chno="521",HBO COMEDY
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/13438.ts
+#EXTINF:-1 tvg-id="showtimewest.us" tvg-name="SHOWTIME" tvg-logo="http://onlytimewilltell.xyz:2086/images/02a55f6b0b75a11ad1dedf9f8b4d9b4f.png" group-title="03. MOVIE CHANNELS" tvg-chno="522",SHOWTIME
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/14168.ts
+#EXTINF:-1 tvg-id="showtime2.us" tvg-name="SHOWTIME 2" tvg-logo="http://onlytimewilltell.xyz:2086/images/de534e374fafe9c5555aa9f3ccc6b7e4.PNG" group-title="03. MOVIE CHANNELS" tvg-chno="523",SHOWTIME 2
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/14169.ts
+#EXTINF:-1 tvg-id="showtimefamilyzone.us" tvg-name="SHOWTIME FAMILY" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/Showtime_Family_Zone.png" group-title="03. MOVIE CHANNELS" tvg-chno="524",SHOWTIME FAMILY
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/14171.ts
+#EXTINF:-1 tvg-id="shoxbet.us" tvg-name="SHOW X BET" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/01/shobet.png" group-title="03. MOVIE CHANNELS" tvg-chno="525",SHOW X BET
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/14173.ts
+#EXTINF:-1 tvg-id="showtimewest.us" tvg-name="SHOWTIME WEST " tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/showtime-west-logo.png" group-title="03. MOVIE CHANNELS" tvg-chno="526",SHOWTIME WEST
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/14174.ts
+#EXTINF:-1 tvg-id="mgmmarquee.us" tvg-name="MGM+ MARQUEE" tvg-logo="http://onlytimewilltell.xyz:2086/images/8deb1ce16fa29236dd2651e275a22202.png" group-title="03. MOVIE CHANNELS" tvg-chno="527",MGM+ MARQUEE
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/14167.ts
+#EXTINF:-1 tvg-id="mgmhits.us" tvg-name="MGM+ Hits" tvg-logo="http://onlytimewilltell.xyz:2086/images/a325c8f97037e645ade6159bcd253213.png" group-title="03. MOVIE CHANNELS" tvg-chno="528",MGM+ Hits
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/14164.ts
+#EXTINF:-1 tvg-id="starz.us" tvg-name="STARZ" tvg-logo="http://onlytimewilltell.xyz:2086/images/1748d8b34eb1824b6a0e7eb7c32fbed9.png" group-title="03. MOVIE CHANNELS" tvg-chno="529",STARZ
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/14915.ts
+#EXTINF:-1 tvg-id="starzinblack.us" tvg-name="STARZ in BLACK" tvg-logo="https://skeplayer.com/wp-content/uploads/2020/11/starzblack.png" group-title="03. MOVIE CHANNELS" tvg-chno="530",STARZ in BLACK
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/14916.ts
+#EXTINF:-1 tvg-id="starzcomedy.us" tvg-name="STARZ COMEDY" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/Starz_Comedy_2005.png" group-title="03. MOVIE CHANNELS" tvg-chno="531",STARZ COMEDY
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/14917.ts
+#EXTINF:-1 tvg-id="starzcinema.us" tvg-name="STARZ CINEMA" tvg-logo="https://skeplayer.com/wp-content/uploads/2020/11/Starzcin.png" group-title="03. MOVIE CHANNELS" tvg-chno="532",STARZ CINEMA
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/14918.ts
+#EXTINF:-1 tvg-id="starzkidsfamily.us" tvg-name="STARZ KIDS & FAMILY" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/Starz_Kids_26_Family_2005.png" group-title="03. MOVIE CHANNELS" tvg-chno="533",STARZ KIDS & FAMILY
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/14919.ts
+#EXTINF:-1 tvg-id="starzedge.us" tvg-name="STARZ EDGE" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/Starz_Edge_2016.png" group-title="03. MOVIE CHANNELS" tvg-chno="534",STARZ EDGE
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/14920.ts
+#EXTINF:-1 tvg-id="starzencore.us" tvg-name="STARZ ENCORE" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/Starz_Encore.png" group-title="03. MOVIE CHANNELS" tvg-chno="535",STARZ ENCORE
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/14921.ts
+#EXTINF:-1 tvg-id="starzencorewesterns.us" tvg-name="STARZ ENCORE WESTERNS" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/Encore_Westerns_2013_Stacked.png" group-title="03. MOVIE CHANNELS" tvg-chno="536",STARZ ENCORE WESTERNS
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/14922.ts
+#EXTINF:-1 tvg-id="starzencoreaction.us" tvg-name="STARZ ENCORE ACTION" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/06/Encore_Action_2013.png" group-title="03. MOVIE CHANNELS" tvg-chno="537",STARZ ENCORE ACTION
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/14923.ts
+#EXTINF:-1 tvg-id="starzencoresuspense.us" tvg-name="STARZ ENCORE SUSPENCE" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/06/Encore_Suspense_2013.png" group-title="03. MOVIE CHANNELS" tvg-chno="538",STARZ ENCORE SUSPENCE
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/14924.ts
+#EXTINF:-1 tvg-id="hln.us" tvg-name="HLN HEAD LINE NEWS" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/HLN_2017.png" group-title="02. USA CABLE  TV #1" tvg-chno="539",HLN HEAD LINE NEWS
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10415.ts
+#EXTINF:-1 tvg-id="buzzertv.us" tvg-name="BUZZR " tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Buzzr_TV_Network_Logo.png" group-title="02. USA CABLE  TV #1" tvg-chno="541",BUZZR
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/15367.ts
+#EXTINF:-1 tvg-id="bouncetv.us" tvg-name="BOUNCE TV" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/bounce.png" group-title="02. USA CABLE  TV #1" tvg-chno="542",BOUNCE TV
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/17504.ts
+#EXTINF:-1 tvg-id="syfy.us" tvg-name="SYFY HD" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Syfy_logo.png" group-title="02. USA CABLE  TV #1" tvg-chno="543",SYFY HD
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10445.ts
+#EXTINF:-1 tvg-id="homeshoppingnetwork.us" tvg-name="HSN" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/hsn.png" group-title="02. USA CABLE  TV #1" tvg-chno="544",HSN
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/22374.ts
+#EXTINF:-1 tvg-id="qvc.us" tvg-name="QVC" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/03/qvc.png" group-title="02. USA CABLE  TV #1" tvg-chno="545",QVC
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/22375.ts
+#EXTINF:-1 tvg-id="qvc2.us" tvg-name="QVC 2" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/03/qvc2.png" group-title="02. USA CABLE  TV #1" tvg-chno="546",QVC 2
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/22376.ts
+#EXTINF:-1 tvg-id="tvone.us" tvg-name="TV ONE" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/tv-one.png" group-title="02. USA CABLE  TV #1" tvg-chno="547",TV ONE
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/22436.ts
+#EXTINF:-1 tvg-id="reelzchannel.us" tvg-name="REELZ" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/ReelzChannel.png" group-title="02. USA CABLE  TV #1" tvg-chno="548",REELZ
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/28466.ts
+#EXTINF:-1 tvg-id="dejaview.ca" tvg-name="DEJA VIEW" tvg-logo="https://cantseeus.com/wp-content/uploads/2025/02/DejaView.ca_.png" group-title="02. USA CABLE  TV #1" tvg-chno="549",DEJA VIEW
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/29541.ts
+#EXTINF:-1 tvg-id="fyi.us" tvg-name="FYI" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/FYI2C_logo.png" group-title="02. USA CABLE  TV #1" tvg-chno="550",FYI
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10403.ts
+#EXTINF:-1 tvg-id="cbs2wcbs.us" tvg-name="CBS EAST" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/CBS.png" group-title="02. USA CABLE  TV #1" tvg-chno="554",CBS EAST
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10374.ts
+#EXTINF:-1 tvg-id="showtimeextreme.us" tvg-name="SHOWTIME EXTREME" tvg-logo="http://onlytimewilltell.xyz:2086/images/601f0f0bd37ce3760bc59784cb1f7cc7.png" group-title="03. MOVIE CHANNELS" tvg-chno="557",SHOWTIME EXTREME
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/14170.ts
+#EXTINF:-1 tvg-id="court.us" tvg-name="COURT TV" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Court_TV_2019.png" group-title="02. USA CABLE  TV #1" tvg-chno="560",COURT TV
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/33892.ts
+#EXTINF:-1 tvg-id="independentfilmchannel.us" tvg-name="IFC" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/IFC_2018.png" group-title="02. USA CABLE  TV #1" tvg-chno="561",IFC
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/35379.ts
+#EXTINF:-1 tvg-id="aspiretv.us" tvg-name="ASPIRE" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/AspireTV_logo.png" group-title="02. USA CABLE  TV #1" tvg-chno="564",ASPIRE
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/40539.ts
+#EXTINF:-1 tvg-id="antennatv.us" tvg-name="ANTENNA TV" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Antenna_TV_logo.png" group-title="02. USA CABLE  TV #1" tvg-chno="565",ANTENNA TV
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10363.ts
+#EXTINF:-1 tvg-id="gacfamily.us" tvg-name="GAC FAMILY" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/GAC_2015.png" group-title="02. USA CABLE  TV #1" tvg-chno="566",GAC FAMILY
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/50076.ts
+#EXTINF:-1 tvg-id="revolt.us" tvg-name="REVOLT" group-title="02. USA CABLE  TV #1" tvg-chno="567",REVOLT
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/58587.ts
+#EXTINF:-1 tvg-id="fx.us" tvg-name="FX" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/fx1111.jpg" group-title="02. USA CABLE  TV #1" tvg-chno="568",FX
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/63320.ts
+#EXTINF:-1 tvg-id="fetv.us" tvg-name="FETV " tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/FETV2021.png" group-title="02. USA CABLE  TV #1" tvg-chno="569",FETV
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10392.ts
+#EXTINF:-1 tvg-id="heroesandiconstv.us" tvg-name="H&I HEROS & ICONS" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Heroes_26_Icons.png" group-title="02. USA CABLE  TV #1" tvg-chno="570",H&I HEROS & ICONS
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10410.ts
+#EXTINF:-1 tvg-id="paramountnetwork.us" tvg-name="PARAMOUNT" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Paramount_Network.png" group-title="02. USA CABLE  TV #1" tvg-chno="571",PARAMOUNT
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10439.ts
+#EXTINF:-1 tvg-id="weatherchannel.us" tvg-name="THE WEATHER CHANNEL" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/TWC_1982.png" group-title="02. USA CABLE  TV #1" tvg-chno="572",THE WEATHER CHANNEL
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10449.ts
+#EXTINF:-1 tvg-id="uptv.us" tvg-name="UP TV" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/uptv-2021.png" group-title="02. USA CABLE  TV #1" tvg-chno="573",UP TV
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10455.ts
+#EXTINF:-1 tvg-id="amcplus.us" tvg-name="AMC THRILLERS" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/amclogo@2x.png" group-title="02. USA CABLE  TV #1" tvg-chno="574",AMC THRILLERS
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/13985.ts
+#EXTINF:-1 tvg-id="5e8254118601b80007b4b7ae" tvg-name="AMC STORIES" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/AMC-Presents.png" group-title="02. USA CABLE  TV #1" tvg-chno="575",AMC STORIES
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/13986.ts
+#EXTINF:-1 tvg-id="catchycomedy.us" tvg-name="Catchy Comedy" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/decades-1.png" group-title="02. USA CABLE  TV #1" tvg-chno="576",Catchy Comedy
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/22435.ts
+#EXTINF:-1 tvg-id="accuweather.us" tvg-name="AccuWeather" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/05/AccuW.png" group-title="02. USA CABLE  TV #1" tvg-chno="577",AccuWeather
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/30528.ts
+#EXTINF:-1 tvg-id="charge.us" tvg-name="CHARGE!" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/charge.png" group-title="02. USA CABLE  TV #1" tvg-chno="578",CHARGE!
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/34911.ts
+#EXTINF:-1 tvg-id="betjams.us" tvg-name="BET JAMS" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/BET_Jams.png" group-title="02. USA CABLE  TV #1" tvg-chno="579",BET JAMS
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/40760.ts
+#EXTINF:-1 tvg-id="betsoul.us" tvg-name="BET SOUL" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/betsoul1.png" group-title="02. USA CABLE  TV #1" tvg-chno="580",BET SOUL
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/40761.ts
+#EXTINF:-1 tvg-id="mtvclassic.us" tvg-name="MTV Classic" tvg-logo="https://i.imgur.com/ieAldkW.png" group-title="02. USA CABLE  TV #1" tvg-chno="581",MTV Classic
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/46110.ts
+#EXTINF:-1 tvg-id="pixltv.us" tvg-name="PIXL" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Pixl.png" group-title="02. USA CABLE  TV #1" tvg-chno="582",PIXL
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/48054.ts
+#EXTINF:-1 tvg-id="metvwjlp.us" tvg-name="METV (EAST)" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/metv.png" group-title="02. USA CABLE  TV #1" tvg-chno="583",METV (EAST)
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/48442.ts
+#EXTINF:-1 tvg-id="cw.us" tvg-name="CW" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/The_CW.png" group-title="02. USA CABLE  TV #1" tvg-chno="584",CW
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/48476.ts
+#EXTINF:-1 tvg-id="poptv.us" tvg-name="POP" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Pop_channel_blue.png" group-title="02. USA CABLE  TV #1" tvg-chno="585",POP
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/51112.ts
+#EXTINF:-1 tvg-id="hbosignature.us" tvg-name="HBO DRAMA" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/HBO_Signature_2000.png" group-title="03. MOVIE CHANNELS" tvg-chno="588",HBO DRAMA
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/13436.ts
+#EXTINF:-1 tvg-id="hbozone.us" tvg-name="HBO MOVIES" tvg-logo="http://onlytimewilltell.xyz:2086/images/c60515f34081dc2134721aa3347d359f.png" group-title="03. MOVIE CHANNELS" tvg-chno="589",HBO MOVIES
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/13437.ts
+#EXTINF:-1 tvg-id="hbo2.ca" tvg-name="HBO CA 1" tvg-logo="http://onlytimewilltell.xyz:2086/images/b2dfb8f2ab66df1c04c64a35033b0231.png" group-title="03. MOVIE CHANNELS" tvg-chno="590",HBO CA 1
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/13440.ts
+#EXTINF:-1 tvg-id="hbo2.ca" tvg-name="MovieSphere by Lionsgate" tvg-logo="http://onlytimewilltell.xyz:2086/images/9cfbb43c55168f41cdcdb3f7317aefc4.png" group-title="03. MOVIE CHANNELS" tvg-chno="591",MovieSphere by Lionsgate
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/13441.ts
+#EXTINF:-1 tvg-id="tmc.us" tvg-name="The Movie Channel" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/02/the-movie-channel-logo-png-transparent.png" group-title="03. MOVIE CHANNELS" tvg-chno="592",The Movie Channel
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/13449.ts
+#EXTINF:-1 tvg-id="mgmdrivein.us" tvg-name="MGM+ DRIVE-IN" tvg-logo="http://onlytimewilltell.xyz:2086/images/8ea0327e1f692a38875b4a46ba526503.png" group-title="03. MOVIE CHANNELS" tvg-chno="593",MGM+ DRIVE-IN
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/14166.ts
+#EXTINF:-1 tvg-id="showtimewomen.us" tvg-name="SHOWTIME WOMEN" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/Showtime_Women.png" group-title="03. MOVIE CHANNELS" tvg-chno="594",SHOWTIME WOMEN
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/14172.ts
+#EXTINF:-1 tvg-id="skycomedy.uk" tvg-name="SKY COMEDY" tvg-logo="https://cantseeus.com/wp-content/uploads/2024/07/SCComedy.png" group-title="03. MOVIE CHANNELS" tvg-chno="595",SKY COMEDY
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/14926.ts
+#EXTINF:-1 tvg-id="skyaction.uk" tvg-name="SKY ACTION" tvg-logo="https://cantseeus.com/wp-content/uploads/2024/07/SCAction.png" group-title="03. MOVIE CHANNELS" tvg-chno="596",SKY ACTION
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/14927.ts
+#EXTINF:-1 tvg-id="skydrama.uk" tvg-name="SKY DRAMA" tvg-logo="https://cantseeus.com/wp-content/uploads/2024/07/SCDrama.png" group-title="03. MOVIE CHANNELS" tvg-chno="597",SKY DRAMA
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/14928.ts
+#EXTINF:-1 tvg-id="skyfamily.uk" tvg-name="SKY FAMILY" tvg-logo="https://cantseeus.com/wp-content/uploads/2024/07/SCFamily.png" group-title="03. MOVIE CHANNELS" tvg-chno="598",SKY FAMILY
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/14929.ts
+#EXTINF:-1 tvg-id="skygreats.uk" tvg-name="SKY PREMIERE" tvg-logo="https://cantseeus.com/wp-content/uploads/2024/07/SCGreats.png" group-title="03. MOVIE CHANNELS" tvg-chno="599",SKY PREMIERE
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/14930.ts
+#EXTINF:-1 tvg-id="skyhits.uk" tvg-name="SKY HITS" tvg-logo="https://cantseeus.com/wp-content/uploads/2024/07/SCHits.png" group-title="03. MOVIE CHANNELS" tvg-chno="600",SKY HITS
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/14931.ts
+#EXTINF:-1 tvg-id="skyscifihorror.uk" tvg-name="SKY SCIFI/HORROR" tvg-logo="https://cantseeus.com/wp-content/uploads/2024/07/SCScifi.png" group-title="03. MOVIE CHANNELS" tvg-chno="601",SKY SCIFI/HORROR
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/14932.ts
+#EXTINF:-1 tvg-id="showtimenext.us" tvg-name="SHOWTIME NEXT" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/06/Showtime_Next.png" group-title="03. MOVIE CHANNELS" tvg-chno="602",SHOWTIME NEXT
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/38620.ts
+#EXTINF:-1 tvg-id="retroplex.us" tvg-name="RETRO PLEX" tvg-logo="http://onlytimewilltell.xyz:2086/images/801fab8847d24da6e43dd1c094adbc9d.png" group-title="03. MOVIE CHANNELS" tvg-chno="603",RETRO PLEX
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/40759.ts
+#EXTINF:-1 tvg-id="starzwest.us" tvg-name="Starz West" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/Starz_2016.png" group-title="03. MOVIE CHANNELS" tvg-chno="604",Starz West
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/43857.ts
+#EXTINF:-1 tvg-id="sony.us" tvg-name="SONY MOVIE CHANNEL" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/Sony_Movies_2019.png" group-title="03. MOVIE CHANNELS" tvg-chno="605",SONY MOVIE CHANNEL
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/14850.ts
+#EXTINF:-1 tvg-id="ctvscifichannel.ca" tvg-name="SCIENCE FICTION TV" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/CTV_SciFi_Channel_Primary_Logo_Print_Reverse.png" group-title="02. USA CABLE  TV #1" tvg-chno="606",SCIENCE FICTION TV
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/16268.ts
+#EXTINF:-1 tvg-id="metvplus.us" tvg-name="METV (BackUp)" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/metv.png" group-title="02. USA CABLE  TV #1" tvg-chno="607",METV (BackUp)
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/45993.ts
+#EXTINF:-1 tvg-id="mtvu.us" tvg-name="MTV LIVE" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/MTVU.png" group-title="02. USA CABLE  TV #1" tvg-chno="608",MTV LIVE
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/31498.ts
+#EXTINF:-1 tvg-id="starzencoreclassics.us" tvg-name="STARZ ENCORE CLASSIC" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/06/Encore_Classic_2013-1.png" group-title="03. MOVIE CHANNELS" tvg-chno="612",STARZ ENCORE CLASSIC
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/14925.ts
+#EXTINF:-1 tvg-id="militaryhistory.us" tvg-name="MILITARY HEROS" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Military_History_2015.png" group-title="02. USA CABLE  TV #1" tvg-chno="613",MILITARY HEROS
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/38851.ts
+#EXTINF:-1 tvg-id="tmcxtra.us" tvg-name="The Movie Channel XTRA" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/02/the-movie-channel-logo-png-transparent.png" group-title="03. MOVIE CHANNELS" tvg-chno="615",The Movie Channel XTRA
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/15366.ts
+#EXTINF:-1 tvg-id="hbowest.us" tvg-name="HBO West" tvg-logo="http://onlytimewilltell.xyz:2086/images/20590cac6bdbb1d87c1d1587da998b23.png" group-title="03. MOVIE CHANNELS" tvg-chno="616",HBO West
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/43856.ts
+#EXTINF:-1 tvg-name="NBC DateLine" group-title="02. USA CABLE  TV #1" tvg-chno="617",NBC DateLine
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/100675.ts
+#EXTINF:-1 tvg-name="Haunt TV" tvg-logo="https://cantseeus.com/wp-content/uploads/2025/11/haunt.png" group-title="02. USA CABLE  TV #1" tvg-chno="618",Haunt TV
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/100676.ts
+#EXTINF:-1 tvg-id="thecowboychannel.us" tvg-name="Cowboy Channel" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Cowboy_Channel.png" group-title="02. USA CABLE  TV #1" tvg-chno="619",Cowboy Channel
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/102061.ts
+#EXTINF:-1 tvg-id="awe.us" tvg-name="AWE PLUS" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/awe.png" group-title="02. USA CABLE  TV #1" tvg-chno="620",AWE PLUS
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10364.ts
+#EXTINF:-1 tvg-id="foxweatherwdca4.us" tvg-name="FOX WEATHER" tvg-logo="https://cantseeus.com/wp-content/uploads/2025/02/Untitled.png" group-title="02. USA CABLE  TV #1" tvg-chno="621",FOX WEATHER
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/56245.ts
+#EXTINF:-1 tvg-id="5starmax.us" tvg-name="CINEMAX CLASSICS" tvg-logo="https://skeplayer.com/wp-content/uploads/2020/11/5max.png" group-title="03. MOVIE CHANNELS" tvg-chno="622",CINEMAX CLASSICS
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/13990.ts
+#EXTINF:-1 tvg-id="hollywoodsuite2000.ca" tvg-name="HOLLYWOODS 2000s" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/06/2000s_Movies.png" group-title="03. MOVIE CHANNELS" tvg-chno="623",HOLLYWOODS 2000s
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/16267.ts
+#EXTINF:-1 tvg-id="hollywoodsuite90s.ca" tvg-name="HOLLYWOODS 90s" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/90s_Movies.png" group-title="03. MOVIE CHANNELS" tvg-chno="624",HOLLYWOODS 90s
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/16266.ts
+#EXTINF:-1 tvg-id="hollywoodsuite70s.ca" tvg-name="Hollywood Suite 70s" tvg-logo="https://cantseeus.com/wp-content/uploads/2025/03/hollywood-70s.png" group-title="03. MOVIE CHANNELS" tvg-chno="625",Hollywood Suite 70s
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/16264.ts
+#EXTINF:-1 tvg-id="hollywoodsuite80s.ca" tvg-name="HOLLYWOODS 80s" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/06/80s_Movies.png" group-title="03. MOVIE CHANNELS" tvg-chno="626",HOLLYWOODS 80s
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/16265.ts
+#EXTINF:-1 tvg-id="history2.ca" tvg-name="HISTORY H2" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/H2.png" group-title="02. USA CABLE  TV #1" tvg-chno="627",HISTORY H2
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/167178.ts
+#EXTINF:-1 tvg-name="FILMRISE WESTERNS" group-title="02. USA CABLE  TV #1" tvg-chno="629",FILMRISE WESTERNS
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/177172.ts
+#EXTINF:-1 tvg-id="gacliving.us" tvg-name="GAC  Faith & Living" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/GAC_2015.png" group-title="02. USA CABLE  TV #1" tvg-chno="630",GAC  Faith & Living
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/48209.ts
+#EXTINF:-1 tvg-id="abc7kabctv.us" tvg-name="ABC WEST" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Abc_2013_logo_dark_grey.png" group-title="02. USA CABLE  TV #1" tvg-chno="631",ABC WEST
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10359.ts
+#EXTINF:-1 tvg-id="cmt.us" tvg-name="CMT WEST" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/cmttrans.png" group-title="02. USA CABLE  TV #1" tvg-chno="632",CMT WEST
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/186055.ts
+#EXTINF:-1 tvg-name="FilmRise Comedy" tvg-logo="https://cantseeus.com/wp-content/uploads/2025/11/newfilmrise.png" group-title="02. USA CABLE  TV #1" tvg-chno="769",FilmRise Comedy
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/199001.ts
+#EXTINF:-1 tvg-name="FilmRise True Crime" tvg-logo="https://cantseeus.com/wp-content/uploads/2025/11/newfilmrise.png" group-title="03. MOVIE CHANNELS" tvg-chno="770",FilmRise True Crime
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/199002.ts
+#EXTINF:-1 tvg-name="FilmRise Free Movies" tvg-logo="https://cantseeus.com/wp-content/uploads/2025/11/newfilmrise.png" group-title="03. MOVIE CHANNELS" tvg-chno="771",FilmRise Free Movies
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/199003.ts
+#EXTINF:-1 tvg-name="FilmRise Action" tvg-logo="https://cantseeus.com/wp-content/uploads/2025/11/newfilmrise.png" group-title="03. MOVIE CHANNELS" tvg-chno="772",FilmRise Action
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/199004.ts
+#EXTINF:-1 tvg-name="FilmRise Classic TV" tvg-logo="https://cantseeus.com/wp-content/uploads/2025/11/newfilmrise.png" group-title="03. MOVIE CHANNELS" tvg-chno="773",FilmRise Classic TV
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/199005.ts
+#EXTINF:-1 tvg-name="FilmRise Drama" tvg-logo="https://cantseeus.com/wp-content/uploads/2025/11/newfilmrise.png" group-title="03. MOVIE CHANNELS" tvg-chno="774",FilmRise Drama
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/199006.ts
+#EXTINF:-1 tvg-name="FilmRise Horror" tvg-logo="https://cantseeus.com/wp-content/uploads/2025/11/newfilmrise.png" group-title="03. MOVIE CHANNELS" tvg-chno="775",FilmRise Horror
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/199007.ts
+#EXTINF:-1 tvg-name="Miramax Movie Channel" group-title="03. MOVIE CHANNELS" tvg-chno="776",Miramax Movie Channel
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/199008.ts
+#EXTINF:-1 tvg-id="justicecentral.us" tvg-name="True Crmz" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Justice_Network_Logo_2019.png" group-title="02. USA CABLE  TV #1" tvg-chno="777",True Crmz
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/10382.ts
+#EXTINF:-1 tvg-id="discoverylife.us" tvg-name="DISCOVERY LIFE" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/discoverylife.png" group-title="02. USA CABLE  TV #1" tvg-chno="778",DISCOVERY LIFE
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/28464.ts
+#EXTINF:-1 tvg-name="HORROR By ALTER" group-title="02. USA CABLE  TV #1" tvg-chno="779",HORROR By ALTER
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/199299.ts
+#EXTINF:-1 tvg-name="BIZARRE FOODS" tvg-logo="https://cantseeus.com/wp-content/uploads/2025/11/BIZARRE-FOODS.png" group-title="02. USA CABLE  TV #1" tvg-chno="781",BIZARRE FOODS
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204140.ts
+#EXTINF:-1 tvg-id="showtimeshowcase.us" tvg-name="SHOWTIME SHOWCASE" group-title="03. MOVIE CHANNELS" tvg-chno="782",SHOWTIME SHOWCASE
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/188733.ts
+#EXTINF:-1 tvg-name="FMC FAMILY MOVIE CLASSICS" group-title="02. USA CABLE  TV #1" tvg-chno="783",FMC FAMILY MOVIE CLASSICS
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204412.ts
+#EXTINF:-1 tvg-name="Hell's Kitchen/Kitchen Nightmares" group-title="02. USA CABLE  TV #1" tvg-chno="784",Hell's Kitchen/Kitchen Nightmares
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204502.ts
+#EXTINF:-1 tvg-id="betgospel.us" tvg-name="BET+Tyler Perry Drama" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/BET_28201029.png" group-title="02. USA CABLE  TV #1" tvg-chno="785",BET+Tyler Perry Drama
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/61025.ts
+#EXTINF:-1 tvg-id="US: BYUTV" tvg-name="BET+Tyler Perry Comedy" tvg-logo="https://i.ibb.co/FVhgpdJ/byutv.png" group-title="02. USA CABLE  TV #1" tvg-chno="786",BET+Tyler Perry Comedy
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/39194.ts
+#EXTINF:-1 tvg-id="ionmystery.us" tvg-name="ION Mystery" group-title="02. USA CABLE  TV #1" tvg-chno="787",ION Mystery
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/206771.ts
+#EXTINF:-1 tvg-id="dabl.us" tvg-name="DABL" group-title="02. USA CABLE  TV #1" tvg-chno="788",DABL
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/206772.ts
+#EXTINF:-1 tvg-name="Unsolved Mysteries" group-title="02. USA CABLE  TV #1" tvg-chno="789",Unsolved Mysteries
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/206830.ts
+#EXTINF:-1 tvg-id="gacfamily.us" tvg-name="GAC Adventures" group-title="02. USA CABLE  TV #1" tvg-chno="790",GAC Adventures
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/206831.ts
+#EXTINF:-1 tvg-name="The Design Network" group-title="02. USA CABLE  TV #1" tvg-chno="791",The Design Network
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/206834.ts
+#EXTINF:-1 tvg-id="ctvscifichannel.ca" tvg-name="CTV SCI FY" group-title="02. USA CABLE  TV #1" tvg-chno="792",CTV SCI FY
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/206835.ts
+#EXTINF:-1 tvg-id="rewind.ca" tvg-name="REWIND" group-title="02. USA CABLE  TV #1" tvg-chno="793",REWIND
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/206836.ts
+#EXTINF:-1 tvg-id="showcase.ca" tvg-name="SHOWCASE " tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Showcase15.png" group-title="02. USA CABLE  TV #1" tvg-chno="794",SHOWCASE
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/46107.ts
+#EXTINF:-1 tvg-id="silverscreenclassics.ca" tvg-name="SILVER SCREEN Classics" group-title="02. USA CABLE  TV #1" tvg-chno="795",SILVER SCREEN Classics
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/206837.ts
+#EXTINF:-1 tvg-name="SKY GREATS" tvg-logo="https://cantseeus.com/wp-content/uploads/2024/07/SCGreats.png" group-title="03. MOVIE CHANNELS" tvg-chno="798",SKY GREATS
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/208272.ts
+#EXTINF:-1 tvg-id="plutotvwesterns.us" tvg-name="INSP WESTERN BOUND" tvg-logo="https://cantseeus.com/wp-content/uploads/2025/11/westbound.png" group-title="02. USA CABLE  TV #1" tvg-chno="799",INSP WESTERN BOUND
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/208400.ts
+#EXTINF:-1 tvg-id="bouncetv.us" tvg-name="BOUNCE TV XL" group-title="02. USA CABLE  TV #1" tvg-chno="800",BOUNCE TV XL
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/208405.ts
+#EXTINF:-1 tvg-id="discoverychannel.us" tvg-name="DISCOVERY (West)" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/discover.png" group-title="02. USA CABLE  TV #1" tvg-chno="801",DISCOVERY (West)
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/83424.ts
+#EXTINF:-1 tvg-name="GRIT XTRA" group-title="02. USA CABLE  TV #1" tvg-chno="802",GRIT XTRA
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/208406.ts
+#EXTINF:-1 tvg-id="ionplus.us" tvg-name="ION PLUS" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/07/Ion_Plus.png" group-title="02. USA CABLE  TV #1" tvg-chno="803",ION PLUS
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/39780.ts
+#EXTINF:-1 tvg-id="turnerclassicmovies.us" tvg-name="TCM WEST" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Turner_Classic_Movies_2009.png" group-title="02. USA CABLE  TV #1" tvg-chno="804",TCM WEST
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/208407.ts
+#EXTINF:-1 tvg-name="LOVE PETS" group-title="02. USA CABLE  TV #1" tvg-chno="805",LOVE PETS
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/208408.ts
+#EXTINF:-1 tvg-id="hbolatino.us" tvg-name="HBO LATINO" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/HBO.png" group-title="03. MOVIE CHANNELS" tvg-chno="806",HBO LATINO
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/208409.ts
+#EXTINF:-1 tvg-id="starzencoreclassics.us" tvg-name="Starz Encore Family" tvg-logo="http://tkosportz.xyz:32417/logos/directv-newyorkstarzencorefamily.png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjI3MTMyODIxMDMsInBhc3N3b3JkIjoiMWUxZjE5ZjdiOTIwZTFjOTk3NDg1ZjM3YjA0OTQzZDJiMzE1NzgxZDczMjhjZDI4OWIyNGM1MDFkNTNlNGExMiIsInVzZXJuYW1lIjoidGtvdWcifQ.Sd4LrOUBREcrMUsFK0xsI8KXSu1a65pabp8m3kHhy1A" group-title="03. MOVIE CHANNELS" tvg-chno="1720",Starz Encore Family
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/216178.ts
+#EXTINF:-1 tvg-id="starzencoreblack.us" tvg-name="Starz Encore Black" group-title="03. MOVIE CHANNELS" tvg-chno="1721",Starz Encore Black
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/216179.ts
+#EXTINF:-1 tvg-id="dovechannel.us" tvg-name="Dove Channel" group-title="02. USA CABLE  TV #1" tvg-chno="1724",Dove Channel
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/206832.ts
+#EXTINF:-1 tvg-id="motortrend.us" tvg-name="Discovery-Turbo" tvg-logo="https://static.epg.best/gb/DiscoveryTurbo.uk.png" group-title="02. USA CABLE  TV #1" tvg-chno="1725",Discovery-Turbo
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/206867.ts
+#EXTINF:-1 tvg-id="mgm.us" tvg-name="MGM" tvg-logo="http://onlytimewilltell.xyz:2086/images/5aabbcebd62c39ff556e4b0711a7cdb0.png" group-title="03. MOVIE CHANNELS" tvg-chno="1726",MGM
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/14165.ts
+#EXTINF:-1 tvg-name="FILMRISE Sci-Fi" group-title="02. USA CABLE  TV #1" tvg-chno="1727",FILMRISE Sci-Fi
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/218709.ts
+#EXTINF:-1 tvg-id="circletv.us" tvg-name="CIRCLE TV" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Circle_Network_logo.png" group-title="02. USA CABLE  TV #1" tvg-chno="1728",CIRCLE TV
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/40744.ts
+#EXTINF:-1 tvg-id="cbs2kdka.us" tvg-name="CBS EAST Pittsburg" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/CBS.png" group-title="02. USA CABLE  TV #1" tvg-chno="1729",CBS EAST Pittsburg
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/224192.ts
+#EXTINF:-1 tvg-id="foxwpgh.us" tvg-name="FOX EAST Pittsburg" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/fox.png" group-title="02. USA CABLE  TV #1" tvg-chno="1730",FOX EAST Pittsburg
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/224193.ts
+#EXTINF:-1 tvg-id="movieplex.us" tvg-name="MoviePlex" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/Movieplex-logo.png" group-title="03. MOVIE CHANNELS" tvg-chno="1732",MoviePlex
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/13984.ts
+#EXTINF:-1 tvg-id="cinemaxpacific.us" tvg-name="CINEMAX WEST" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Cinemax_2011_28Yellow29.png" group-title="03. MOVIE CHANNELS" tvg-chno="9592",CINEMAX WEST
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/240881.ts
+#EXTINF:-1 tvg-id="metvplus.us" tvg-name="MeTV+" group-title="02. USA CABLE  TV #1" tvg-chno="9593",MeTV+
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/206833.ts
+#EXTINF:-1 tvg-name="Babes TV HD" group-title="96. ADULT " tvg-chno="274",Babes TV HD
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204217.ts
+#EXTINF:-1 tvg-name="Balkan Erotic HD" group-title="96. ADULT " tvg-chno="275",Balkan Erotic HD
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204218.ts
+#EXTINF:-1 tvg-name="Bang U HD" group-title="96. ADULT " tvg-chno="276",Bang U HD
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204219.ts
+#EXTINF:-1 tvg-name="Barely Legal TV" group-title="96. ADULT " tvg-chno="277",Barely Legal TV
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204220.ts
+#EXTINF:-1 tvg-name="Blue Hustler HD" group-title="96. ADULT " tvg-chno="278",Blue Hustler HD
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204221.ts
+#EXTINF:-1 tvg-name="Brazzers TV Europe HD" group-title="96. ADULT " tvg-chno="279",Brazzers TV Europe HD
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204222.ts
+#EXTINF:-1 tvg-name="Cento X Cento HD" group-title="96. ADULT " tvg-chno="280",Cento X Cento HD
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204223.ts
+#EXTINF:-1 tvg-name="Desire HD" group-title="96. ADULT " tvg-chno="281",Desire HD
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204224.ts
+#EXTINF:-1 tvg-name="Dorcel HD" group-title="96. ADULT " tvg-chno="282",Dorcel HD
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204225.ts
+#EXTINF:-1 tvg-name="Dorcel XXX HD" group-title="96. ADULT " tvg-chno="283",Dorcel XXX HD
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204226.ts
+#EXTINF:-1 tvg-name="Dusk HD" group-title="96. ADULT " tvg-chno="284",Dusk HD
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204227.ts
+#EXTINF:-1 tvg-name="Ero XXX HD" group-title="96. ADULT " tvg-chno="285",Ero XXX HD
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204228.ts
+#EXTINF:-1 tvg-name="EroLuxe Anal HD" group-title="96. ADULT " tvg-chno="286",EroLuxe Anal HD
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204229.ts
+#EXTINF:-1 tvg-name="EroLuxe Asian HD" group-title="96. ADULT " tvg-chno="287",EroLuxe Asian HD
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204230.ts
+#EXTINF:-1 tvg-name="EroLuxe BDSM HD" group-title="96. ADULT " tvg-chno="288",EroLuxe BDSM HD
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204231.ts
+#EXTINF:-1 tvg-name="EroLuxe Babysitter HD" group-title="96. ADULT " tvg-chno="289",EroLuxe Babysitter HD
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204232.ts
+#EXTINF:-1 tvg-name="EroLuxe Big Cock HD" group-title="96. ADULT " tvg-chno="290",EroLuxe Big Cock HD
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204233.ts
+#EXTINF:-1 tvg-name="EroLuxe Blondes HD" group-title="96. ADULT " tvg-chno="291",EroLuxe Blondes HD
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204234.ts
+#EXTINF:-1 tvg-name="EroLuxe Blowjob HD" group-title="96. ADULT " tvg-chno="292",EroLuxe Blowjob HD
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204235.ts
+#EXTINF:-1 tvg-name="EroLuxe Brunette HD" group-title="96. ADULT " tvg-chno="293",EroLuxe Brunette HD
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204236.ts
+#EXTINF:-1 tvg-name="EroLuxe Creampie HD" group-title="96. ADULT " tvg-chno="294",EroLuxe Creampie HD
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204237.ts
+#EXTINF:-1 tvg-name="EroLuxe Fisting HD" group-title="96. ADULT " tvg-chno="295",EroLuxe Fisting HD
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204238.ts
+#EXTINF:-1 tvg-name="EroLuxe GangBang HD" group-title="96. ADULT " tvg-chno="296",EroLuxe GangBang HD
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204239.ts
+#EXTINF:-1 tvg-name="EroLuxe Lesbians HD" group-title="96. ADULT " tvg-chno="297",EroLuxe Lesbians HD
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204240.ts
+#EXTINF:-1 tvg-name="EroLuxe Milf HD" group-title="96. ADULT " tvg-chno="298",EroLuxe Milf HD
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204241.ts
+#EXTINF:-1 tvg-name="EroLuxe Orgy HD" group-title="96. ADULT " tvg-chno="299",EroLuxe Orgy HD
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204242.ts
+#EXTINF:-1 tvg-name="EroLuxe POV HD" group-title="96. ADULT " tvg-chno="300",EroLuxe POV HD
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204243.ts
+#EXTINF:-1 tvg-name="EroLuxe RedHeads HD" group-title="96. ADULT " tvg-chno="301",EroLuxe RedHeads HD
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204244.ts
+#EXTINF:-1 tvg-name="EroLuxe Russian Teens HD" group-title="96. ADULT " tvg-chno="302",EroLuxe Russian Teens HD
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204245.ts
+#EXTINF:-1 tvg-name="EroLuxe Schoolgirl HD" group-title="96. ADULT " tvg-chno="303",EroLuxe Schoolgirl HD
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204246.ts
+#EXTINF:-1 tvg-name="EroLuxe Shemales HD" group-title="96. ADULT " tvg-chno="304",EroLuxe Shemales HD
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204247.ts
+#EXTINF:-1 tvg-name="EroLuxe Solo HD" group-title="96. ADULT " tvg-chno="305",EroLuxe Solo HD
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204248.ts
+#EXTINF:-1 tvg-name="Eromania 4K" group-title="96. ADULT " tvg-chno="306",Eromania 4K
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204249.ts
+#EXTINF:-1 tvg-name="Erota HD" group-title="96. ADULT " tvg-chno="307",Erota HD
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204250.ts
+#EXTINF:-1 tvg-name="Erotic" group-title="96. ADULT " tvg-chno="308",Erotic
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204251.ts
+#EXTINF:-1 tvg-name="Erotic 2" group-title="96. ADULT " tvg-chno="309",Erotic 2
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204252.ts
+#EXTINF:-1 tvg-name="Erotic 3" group-title="96. ADULT " tvg-chno="310",Erotic 3
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204253.ts
+#EXTINF:-1 tvg-name="Erotic 4" group-title="96. ADULT " tvg-chno="311",Erotic 4
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204254.ts
+#EXTINF:-1 tvg-name="Erotic 5" group-title="96. ADULT " tvg-chno="312",Erotic 5
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204255.ts
+#EXTINF:-1 tvg-name="Erotic 6" group-title="96. ADULT " tvg-chno="313",Erotic 6
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204256.ts
+#EXTINF:-1 tvg-name="Erotic 7" group-title="96. ADULT " tvg-chno="314",Erotic 7
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204257.ts
+#EXTINF:-1 tvg-name="Erotic 8" group-title="96. ADULT " tvg-chno="315",Erotic 8
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204258.ts
+#EXTINF:-1 tvg-name="Erox HD" group-title="96. ADULT " tvg-chno="316",Erox HD
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204259.ts
+#EXTINF:-1 tvg-name="Extasy 4K" group-title="96. ADULT " tvg-chno="317",Extasy 4K
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204260.ts
+#EXTINF:-1 tvg-name="Extasy HD" group-title="96. ADULT " tvg-chno="318",Extasy HD
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204261.ts
+#EXTINF:-1 tvg-name="Exxxotica HD" group-title="96. ADULT " tvg-chno="319",Exxxotica HD
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204262.ts
+#EXTINF:-1 tvg-name="Fantazzy TV" group-title="96. ADULT " tvg-chno="320",Fantazzy TV
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204263.ts
+#EXTINF:-1 tvg-name="Fast Boyz" group-title="96. ADULT " tvg-chno="321",Fast Boyz
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204264.ts
+#EXTINF:-1 tvg-name="Frenchlover TV" group-title="96. ADULT " tvg-chno="322",Frenchlover TV
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204265.ts
+#EXTINF:-1 tvg-name="HOT HD" group-title="96. ADULT " tvg-chno="323",HOT HD
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204266.ts
+#EXTINF:-1 tvg-name="HOT Man" group-title="96. ADULT " tvg-chno="324",HOT Man
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204267.ts
+#EXTINF:-1 tvg-name="Hot Pleasure HD" group-title="96. ADULT " tvg-chno="325",Hot Pleasure HD
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204268.ts
+#EXTINF:-1 tvg-name="Hustler HD" group-title="96. ADULT " tvg-chno="326",Hustler HD
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204269.ts
+#EXTINF:-1 tvg-name="Hustler TV" group-title="96. ADULT " tvg-chno="327",Hustler TV
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204270.ts
+#EXTINF:-1 tvg-name="Leo TV Gold HD" group-title="96. ADULT " tvg-chno="328",Leo TV Gold HD
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204271.ts
+#EXTINF:-1 tvg-name="Leo TV HD" group-title="96. ADULT " tvg-chno="329",Leo TV HD
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204272.ts
+#EXTINF:-1 tvg-name="Meiden Van Holland" group-title="96. ADULT " tvg-chno="330",Meiden Van Holland
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204273.ts
+#EXTINF:-1 tvg-name="Milf TV" group-title="96. ADULT " tvg-chno="331",Milf TV
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204274.ts
+#EXTINF:-1 tvg-name="Net XXL" group-title="96. ADULT " tvg-chno="332",Net XXL
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204275.ts
+#EXTINF:-1 tvg-name="Nuart" group-title="96. ADULT " tvg-chno="333",Nuart
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204276.ts
+#EXTINF:-1 tvg-name="Passie XXX" group-title="96. ADULT " tvg-chno="334",Passie XXX
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204277.ts
+#EXTINF:-1 tvg-name="Passion XXX HD" group-title="96. ADULT " tvg-chno="335",Passion XXX HD
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204278.ts
+#EXTINF:-1 tvg-name="Penthouse Gold HD" group-title="96. ADULT " tvg-chno="336",Penthouse Gold HD
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204279.ts
+#EXTINF:-1 tvg-name="Penthouse Gold LA" group-title="96. ADULT " tvg-chno="337",Penthouse Gold LA
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204280.ts
+#EXTINF:-1 tvg-name="Penthouse Passion HD" group-title="96. ADULT " tvg-chno="338",Penthouse Passion HD
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204281.ts
+#EXTINF:-1 tvg-name="Penthouse Reality TV HD" group-title="96. ADULT " tvg-chno="339",Penthouse Reality TV HD
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204282.ts
+#EXTINF:-1 tvg-name="Pinko Club TV HD" group-title="96. ADULT " tvg-chno="340",Pinko Club TV HD
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204283.ts
+#EXTINF:-1 tvg-name="Playboy TV Europe HD" group-title="96. ADULT " tvg-chno="341",Playboy TV Europe HD
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204284.ts
+#EXTINF:-1 tvg-name="Playboy TV LA HD" group-title="96. ADULT " tvg-chno="342",Playboy TV LA HD
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204285.ts
+#EXTINF:-1 tvg-name="Playhouse" group-title="96. ADULT " tvg-chno="343",Playhouse
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204286.ts
+#EXTINF:-1 tvg-name="Private HD" group-title="96. ADULT " tvg-chno="344",Private HD
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204287.ts
+#EXTINF:-1 tvg-name="Pure Babes HD" group-title="96. ADULT " tvg-chno="345",Pure Babes HD
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204288.ts
+#EXTINF:-1 tvg-name="Reality Kings HD" group-title="96. ADULT " tvg-chno="346",Reality Kings HD
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204289.ts
+#EXTINF:-1 tvg-name="Red Lips HD" group-title="96. ADULT " tvg-chno="347",Red Lips HD
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204290.ts
+#EXTINF:-1 tvg-name="Red XXX" group-title="96. ADULT " tvg-chno="348",Red XXX
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204291.ts
+#EXTINF:-1 tvg-name="Redlight HD" group-title="96. ADULT " tvg-chno="349",Redlight HD
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204292.ts
+#EXTINF:-1 tvg-name="Russian Night HD" group-title="96. ADULT " tvg-chno="350",Russian Night HD
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204293.ts
+#EXTINF:-1 tvg-name="Secret Circle HD" group-title="96. ADULT " tvg-chno="351",Secret Circle HD
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204294.ts
+#EXTINF:-1 tvg-name="Sextreme" group-title="96. ADULT " tvg-chno="352",Sextreme
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204295.ts
+#EXTINF:-1 tvg-name="Sexy Hot" group-title="96. ADULT " tvg-chno="353",Sexy Hot
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204296.ts
+#EXTINF:-1 tvg-name="Shalun HD" group-title="96. ADULT " tvg-chno="354",Shalun HD
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204297.ts
+#EXTINF:-1 tvg-name="Shelk HD" group-title="96. ADULT " tvg-chno="355",Shelk HD
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204298.ts
+#EXTINF:-1 tvg-name="SuperOne" group-title="96. ADULT " tvg-chno="356",SuperOne
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204299.ts
+#EXTINF:-1 tvg-name="True Amateurs HD" group-title="96. ADULT " tvg-chno="357",True Amateurs HD
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204300.ts
+#EXTINF:-1 tvg-name="Venus" group-title="96. ADULT " tvg-chno="358",Venus
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204301.ts
+#EXTINF:-1 tvg-name="Vivid Red HD" group-title="96. ADULT " tvg-chno="359",Vivid Red HD
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204302.ts
+#EXTINF:-1 tvg-name="Vivid TV Europe" group-title="96. ADULT " tvg-chno="360",Vivid TV Europe
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204303.ts
+#EXTINF:-1 tvg-name="Vivid Touch" group-title="96. ADULT " tvg-chno="361",Vivid Touch
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204304.ts
+#EXTINF:-1 tvg-name="Vixen HD" group-title="96. ADULT " tvg-chno="362",Vixen HD
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204305.ts
+#EXTINF:-1 tvg-name="XXL" group-title="96. ADULT " tvg-chno="363",XXL
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204307.ts
+#EXTINF:-1 tvg-name="XY Max HD" group-title="96. ADULT " tvg-chno="364",XY Max HD
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204308.ts
+#EXTINF:-1 tvg-name="XY Mix HD" group-title="96. ADULT " tvg-chno="365",XY Mix HD
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204309.ts
+#EXTINF:-1 tvg-name="XY Plus HD" group-title="96. ADULT " tvg-chno="366",XY Plus HD
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204310.ts
+#EXTINF:-1 tvg-name="XXX: Alba XXX HD1" group-title="96. ADULT " tvg-chno="367",XXX: Alba XXX HD1
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204311.ts
+#EXTINF:-1 tvg-name="XXX: Alba XXX HD2" group-title="96. ADULT " tvg-chno="368",XXX: Alba XXX HD2
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204312.ts
+#EXTINF:-1 tvg-name="XXX: Anal 4K" group-title="96. ADULT " tvg-chno="369",XXX: Anal 4K
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204313.ts
+#EXTINF:-1 tvg-name="XXX: Anal Mom" group-title="96. ADULT " tvg-chno="370",XXX: Anal Mom
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204314.ts
+#EXTINF:-1 tvg-name="XXX: Anal Teen Angels" group-title="96. ADULT " tvg-chno="371",XXX: Anal Teen Angels
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204315.ts
+#EXTINF:-1 tvg-name="XXX: Bang Bus" group-title="96. ADULT " tvg-chno="372",XXX: Bang Bus
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204316.ts
+#EXTINF:-1 tvg-name="XXX: Bangbros" group-title="96. ADULT " tvg-chno="373",XXX: Bangbros
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204317.ts
+#EXTINF:-1 tvg-name="XXX: Bangbros 4K" group-title="96. ADULT " tvg-chno="374",XXX: Bangbros 4K
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204318.ts
+#EXTINF:-1 tvg-name="XXX:  Beate Uhse.TV" group-title="96. ADULT " tvg-chno="375",XXX:  Beate Uhse.TV
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204319.ts
+#EXTINF:-1 tvg-name="XXX: Blacked" group-title="96. ADULT " tvg-chno="376",XXX: Blacked
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204320.ts
+#EXTINF:-1 tvg-name="XXX: BLUE HUSTLER" tvg-logo="http://www.tmsimg.com/assets/s53559_ll_h3_aa.png" group-title="96. ADULT " tvg-chno="377",XXX: BLUE HUSTLER
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204321.ts
+#EXTINF:-1 tvg-name="XXX: Brand New Amateurs" group-title="96. ADULT " tvg-chno="378",XXX: Brand New Amateurs
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204322.ts
+#EXTINF:-1 tvg-name="XXX: Brazzers" group-title="96. ADULT " tvg-chno="379",XXX: Brazzers
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204323.ts
+#EXTINF:-1 tvg-name="XXX: Brazzers Europe" group-title="96. ADULT " tvg-chno="380",XXX: Brazzers Europe
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204324.ts
+#EXTINF:-1 tvg-name="XXX: Brazzers Extra" group-title="96. ADULT " tvg-chno="381",XXX: Brazzers Extra
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204325.ts
+#EXTINF:-1 tvg-name="XXX: Cum 4k UHD" group-title="96. ADULT " tvg-chno="382",XXX: Cum 4k UHD
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204326.ts
+#EXTINF:-1 tvg-name="XXX: Cum Perfection" group-title="96. ADULT " tvg-chno="383",XXX: Cum Perfection
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204327.ts
+#EXTINF:-1 tvg-name="XXX: Daughter Swap" group-title="96. ADULT " tvg-chno="384",XXX: Daughter Swap
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204328.ts
+#EXTINF:-1 tvg-name="XXX: DDF Network" group-title="96. ADULT " tvg-chno="385",XXX: DDF Network
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204329.ts
+#EXTINF:-1 tvg-name="XXX: Dorcel Club" group-title="96. ADULT " tvg-chno="386",XXX: Dorcel Club
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204330.ts
+#EXTINF:-1 tvg-name="XXX: Dorcel HD" group-title="96. ADULT " tvg-chno="387",XXX: Dorcel HD
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204331.ts
+#EXTINF:-1 tvg-name="XXX: Dorcel XXX HD" tvg-logo="http://www.tmsimg.com/assets/s77541_h3_aa.png" group-title="96. ADULT " tvg-chno="388",XXX: Dorcel XXX HD
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204332.ts
+#EXTINF:-1 tvg-name="XXX: ERO X" group-title="96. ADULT " tvg-chno="389",XXX: ERO X
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204333.ts
+#EXTINF:-1 tvg-name="XXX: Erox XXX HD" group-title="96. ADULT " tvg-chno="390",XXX: Erox XXX HD
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204334.ts
+#EXTINF:-1 tvg-name="XXX: Euro Girls On Girls" group-title="96. ADULT " tvg-chno="391",XXX: Euro Girls On Girls
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204335.ts
+#EXTINF:-1 tvg-name="XXX: Evil Angel HD" group-title="96. ADULT " tvg-chno="392",XXX: Evil Angel HD
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204336.ts
+#EXTINF:-1 tvg-name="XXX: Evolved Fights" group-title="96. ADULT " tvg-chno="393",XXX: Evolved Fights
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204337.ts
+#EXTINF:-1 tvg-name="XXX: Exxxotica TV" group-title="96. ADULT " tvg-chno="394",XXX: Exxxotica TV
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204338.ts
+#EXTINF:-1 tvg-name="XXX: Fake Taxi" group-title="96. ADULT " tvg-chno="395",XXX: Fake Taxi
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204339.ts
+#EXTINF:-1 tvg-name="XXX: Family Hookups" group-title="96. ADULT " tvg-chno="396",XXX: Family Hookups
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204340.ts
+#EXTINF:-1 tvg-name="XXX: Family Strokes" group-title="96. ADULT " tvg-chno="397",XXX: Family Strokes
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204341.ts
+#EXTINF:-1 tvg-name="XXX: Gay Adult TV" group-title="96. ADULT " tvg-chno="398",XXX: Gay Adult TV
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204342.ts
+#EXTINF:-1 tvg-name="XXX: Glory Hole" group-title="96. ADULT " tvg-chno="399",XXX: Glory Hole
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204343.ts
+#EXTINF:-1 tvg-name="XXX: Hookup Hotshot" group-title="96. ADULT " tvg-chno="400",XXX: Hookup Hotshot
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204344.ts
+#EXTINF:-1 tvg-name="XXX: Hot Guys Fuck" group-title="96. ADULT " tvg-chno="401",XXX: Hot Guys Fuck
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204345.ts
+#EXTINF:-1 tvg-name="XXX: HUSTLER HD" group-title="96. ADULT " tvg-chno="402",XXX: HUSTLER HD
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204346.ts
+#EXTINF:-1 tvg-name="XXX: Little Caprice" group-title="96. ADULT " tvg-chno="403",XXX: Little Caprice
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204347.ts
+#EXTINF:-1 tvg-name="XXX: Mia Khalifa" group-title="96. ADULT " tvg-chno="404",XXX: Mia Khalifa
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204348.ts
+#EXTINF:-1 tvg-name="XXX: My Daughter's Hot Friend" group-title="96. ADULT " tvg-chno="405",XXX: My Daughter's Hot Friend
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204349.ts
+#EXTINF:-1 tvg-name="XXX: My Pervy Family" group-title="96. ADULT " tvg-chno="406",XXX: My Pervy Family
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204350.ts
+#EXTINF:-1 tvg-name="XXX: Naughty America" group-title="96. ADULT " tvg-chno="407",XXX: Naughty America
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204351.ts
+#EXTINF:-1 tvg-name="XXX: O LA LA" group-title="96. ADULT " tvg-chno="408",XXX: O LA LA
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204352.ts
+#EXTINF:-1 tvg-name="XXX: Penthouse Gold" group-title="96. ADULT " tvg-chno="409",XXX: Penthouse Gold
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204353.ts
+#EXTINF:-1 tvg-name="XXX: Penthouse Passion" tvg-logo="http://www.tmsimg.com/assets/s102498_ll_h3_ac.png" group-title="96. ADULT " tvg-chno="410",XXX: Penthouse Passion
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204354.ts
+#EXTINF:-1 tvg-name="XXX: Penthouse Quickies" group-title="96. ADULT " tvg-chno="411",XXX: Penthouse Quickies
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204355.ts
+#EXTINF:-1 tvg-name="XXX: Pink Erotic 1" group-title="96. ADULT " tvg-chno="412",XXX: Pink Erotic 1
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204356.ts
+#EXTINF:-1 tvg-name="XXX: Pink Erotic 2" group-title="96. ADULT " tvg-chno="413",XXX: Pink Erotic 2
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204357.ts
+#EXTINF:-1 tvg-name="XXX: Pink Erotic 3" group-title="96. ADULT " tvg-chno="414",XXX: Pink Erotic 3
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204358.ts
+#EXTINF:-1 tvg-name="XXX: Pink Erotic 4" group-title="96. ADULT " tvg-chno="415",XXX: Pink Erotic 4
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204359.ts
+#EXTINF:-1 tvg-name="XXX: Pink Erotic 5" group-title="96. ADULT " tvg-chno="416",XXX: Pink Erotic 5
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204360.ts
+#EXTINF:-1 tvg-name="XXX: Pink Erotic 6" group-title="96. ADULT " tvg-chno="417",XXX: Pink Erotic 6
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204361.ts
+#EXTINF:-1 tvg-name="XXX: Pink Erotic 7" group-title="96. ADULT " tvg-chno="418",XXX: Pink Erotic 7
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204362.ts
+#EXTINF:-1 tvg-name="XXX: Pink Erotic 8" group-title="96. ADULT " tvg-chno="419",XXX: Pink Erotic 8
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204363.ts
+#EXTINF:-1 tvg-name="XXX: Playboy" group-title="96. ADULT " tvg-chno="420",XXX: Playboy
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204364.ts
+#EXTINF:-1 tvg-name="XXX: Princess Cum" group-title="96. ADULT " tvg-chno="421",XXX: Princess Cum
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204365.ts
+#EXTINF:-1 tvg-name="XXX: PureTaboo" group-title="96. ADULT " tvg-chno="422",XXX: PureTaboo
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204366.ts
+#EXTINF:-1 tvg-name="XXX: Real Girls Gone Bad" group-title="96. ADULT " tvg-chno="423",XXX: Real Girls Gone Bad
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204367.ts
+#EXTINF:-1 tvg-name="XXX: Real Wife Stories" group-title="96. ADULT " tvg-chno="424",XXX: Real Wife Stories
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204368.ts
+#EXTINF:-1 tvg-name="XXX: Reality Kings" group-title="96. ADULT " tvg-chno="425",XXX: Reality Kings
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204369.ts
+#EXTINF:-1 tvg-name="XXX: Sexto Sento" group-title="96. ADULT " tvg-chno="426",XXX: Sexto Sento
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204370.ts
+#EXTINF:-1 tvg-name="XXX: Sextreme" tvg-logo="http://www.tmsimg.com/assets/s72143_ll_h3_aa.png" group-title="96. ADULT " tvg-chno="427",XXX: Sextreme
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204371.ts
+#EXTINF:-1 tvg-name="XXX: Taboo" group-title="96. ADULT " tvg-chno="428",XXX: Taboo
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204372.ts
+#EXTINF:-1 tvg-name="XXX: Teen Red TV" group-title="96. ADULT " tvg-chno="429",XXX: Teen Red TV
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204373.ts
+#EXTINF:-1 tvg-name="XXX: Tiny 4k" group-title="96. ADULT " tvg-chno="430",XXX: Tiny 4k
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204374.ts
+#EXTINF:-1 tvg-name="XXX: Venus" tvg-logo="http://www.tmsimg.com/assets/s16498_ll_h3_aa.png" group-title="96. ADULT " tvg-chno="431",XXX: Venus
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204377.ts
+#EXTINF:-1 tvg-name="XXX: VividRed XXX" group-title="96. ADULT " tvg-chno="432",XXX: VividRed XXX
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204378.ts
+#EXTINF:-1 tvg-name="XXX: Wank It Now" group-title="96. ADULT " tvg-chno="433",XXX: Wank It Now
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204379.ts
+#EXTINF:-1 tvg-name="XXX: We Live Together" group-title="96. ADULT " tvg-chno="434",XXX: We Live Together
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204380.ts
+#EXTINF:-1 tvg-name="XXX: XXL" tvg-logo="http://www.tmsimg.com/assets/s52505_ll_h3_aa.png" group-title="96. ADULT " tvg-chno="435",XXX: XXL
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204381.ts
+#EXTINF:-1 tvg-name="XXX: XY Max HD" group-title="96. ADULT " tvg-chno="436",XXX: XY Max HD
+http://bgdc.live:25461/live/dennis68bluez@yahoo.com/05447233/204382.ts
